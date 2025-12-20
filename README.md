@@ -25,5 +25,5 @@ Each model was evaluated using MAE, RMSE, and R² scores.
 The **Multilayer Perceptron (MLP) with the Adam optimizer** performed the best overall.  
 While several models underfit the data, the MLP was able to capture the underlying patterns more effectively.
 
-## 📊 Dataset
+##  Dataset
 - Source: Kaggle – *Linear Equation in 2 Variables*
